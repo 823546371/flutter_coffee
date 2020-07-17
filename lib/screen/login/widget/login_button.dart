@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_coffee/constant.dart';
+import 'package:flutter_coffee/screen/main/main_screen.dart';
 
 class LoginButton extends StatelessWidget {
   const LoginButton({
@@ -15,7 +16,16 @@ class LoginButton extends StatelessWidget {
           borderRadius: BorderRadius.circular(36),
         ),
         color: mPrimaryColor,
-        onPressed: () {},
+        onPressed: () {
+          Navigator.push(
+            context,
+            MaterialPageRoute(
+              builder: (context) {
+                return MainScreen();
+              },
+            ),
+          );
+        },
         child: Container(
           width: double.infinity,
           padding: const EdgeInsets.symmetric(vertical: 16),
