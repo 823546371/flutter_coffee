@@ -8,9 +8,9 @@
 
 ### 视频
 
-YouTube : [观看地址]()
+YouTube : [观看地址](https://youtu.be/RNQ1meh9k48)
 
-哔哩哔哩 : [观看地址]()
+哔哩哔哩 : [观看地址](https://www.bilibili.com/video/BV1pK411H7uG/)
 
 ### 设计 
 

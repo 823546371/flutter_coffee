@@ -8,9 +8,9 @@ The coffee application is divided into 3 pages, namely the splash screen page, t
 
 ### Video
 
-YouTube : [Watch it on YouTube]()
+YouTube : [Watch it on YouTube](https://youtu.be/RNQ1meh9k48)
 
-Bilibili : [Watch it on Bilibili]()
+Bilibili : [Watch it on Bilibili](https://www.bilibili.com/video/BV1pK411H7uG/)
 
 ### UI 
 
